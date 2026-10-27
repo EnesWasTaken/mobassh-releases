@@ -1,4 +1,4 @@
-<a href="https://github.com/sisuus63-cmyk/mobassh-releases/releases/latest">
+<a href="https://github.com/EnesWasTaken/mobassh-releases/releases/latest">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/mobassh-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/mobassh-light.svg">
@@ -7,13 +7,13 @@
 </a>
 
 <p>
-  <a href="https://github.com/sisuus63-cmyk/mobassh-releases/releases/latest"><img alt="Download the latest version" src="https://img.shields.io/github/v/release/sisuus63-cmyk/mobassh-releases?style=for-the-badge&label=download&color=3d8bfd"></a>
+  <a href="https://github.com/EnesWasTaken/mobassh-releases/releases/latest"><img alt="Download the latest version" src="https://img.shields.io/github/v/release/EnesWasTaken/mobassh-releases?style=for-the-badge&label=download&color=3d8bfd"></a>
   <img alt="Windows 10 and 11, 64-bit" src="https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0078D6?style=for-the-badge">
 </p>
 
 ## Features
 
-- **SSH and local terminals** with tabs, a split view for up to 9 terminals and GPU rendering
+- **SSH, Telnet and local terminals** with tabs, a split view for up to 9 terminals and GPU rendering
 - **SFTP file browser** with drag-and-drop uploads that you can cancel at any time, and it follows your terminal folder
 - **Built-in code editor**: open a file on the server, press <kbd>Ctrl</kbd>+<kbd>S</kbd> and it is saved back
 - **AI assistant** for Gemini, OpenAI, Anthropic, OpenRouter and Codex. It asks before running a command (by default)
@@ -23,7 +23,7 @@
 
 ## Install
 
-1. Download **`MobaSSH-Setup-x.y.z.exe`** from the [latest release](https://github.com/sisuus63-cmyk/mobassh-releases/releases/latest).
+1. Download **`MobaSSH-Setup-x.y.z.exe`** from the [latest release](https://github.com/EnesWasTaken/mobassh-releases/releases/latest).
 2. Run it and pick where to install.
 
 > [!NOTE]
@@ -38,4 +38,4 @@ You can also check by hand from **Help → Check for updates**.
 
 ## Found a bug?
 
-[Open an issue](https://github.com/sisuus63-cmyk/mobassh-releases/issues/new) and tell what happened. A screenshot helps a lot.
+[Open an issue](https://github.com/EnesWasTaken/mobassh-releases/issues/new) and tell what happened. A screenshot helps a lot.
